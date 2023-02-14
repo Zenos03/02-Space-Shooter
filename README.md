@@ -1,9 +1,9 @@
 # 02 Space Shooter
 
 Context and date
-
+02/13/2023
 Description
-
+Arcade Space Shooter Project
 ## Implementation
 Created using Godot 3.5.1
 
